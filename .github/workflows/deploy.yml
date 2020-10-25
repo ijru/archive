@@ -44,5 +44,5 @@ jobs:
           publish_dir: .
           user_name: Github Actions
           user_email: deploys@ijru.sport
-          # cname: archive.ijru.sport
+          cname: archive.ijru.sport
           exclude_assets: ".github,.listignore,.gitignore,README.md,requirements.txt,**/*.lock"
