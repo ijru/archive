@@ -43,6 +43,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           user_name: Github Actions
-          user_email: deploys@ijru.sport
+          user_email: archive@ijru.sport
           cname: archive.ijru.sport
           exclude_assets: ".github,.listignore,.gitignore,README.md,requirements.txt,**/*.lock"
