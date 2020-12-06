@@ -14,10 +14,6 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/unknown/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://archive.ijru.sport/wjrf/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -54,339 +50,479 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1991EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/1991/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1992/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1993/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1994/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1995/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1997/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1998/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1999/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2000/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2001/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2002/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2003/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2004/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2005/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2006/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2007/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2008/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2009/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2010/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2011/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2012/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2013/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2015/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2017/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2018/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2019/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1991/%5B1991%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/1992/%5B1992%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1992EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/1993/%5B1993%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1993EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/1994/%5B1994%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1994EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/1995/%5B1995%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1995EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/1997/%5B1997%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1997EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/1998/%5B1998%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1998EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/1998/%5B1998%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1998EM.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/1999/%5B1999%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/1999EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2000/%5B2000%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2000EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2000/%5B2000%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2000EM.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2001/%5B2001%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2001EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2002/%5B2002%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2002EM.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2003/%5B2003%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2003EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2004/%5B2004%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2004EM.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2005/%5B2005%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2005EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2006/%5B2006%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2006EM.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2007/%5B2007%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2007EC.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2007/%5B2007%5D%20ERSO%20International%20Double%20Dutch%20Competition%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2008EM.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2008/%5B2008%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2010EM.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2009/%5B2009%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2012EM_EM.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2009/%5B2009%5D%20ERSO%20Swedish%20Open%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/2012EM_YT.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2010/%5B2010%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2009_EC_Results_Web.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2011/%5B2011%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2009_SO_Results_Web.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2011/%5B2011%5D%20ERSO%20European%20Youth%20Team%20Tournament%20Results%20-%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2011_EC_Scores_Web.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2011/%5B2011%5D%20ERSO%20European%20Youth%20Team%20Tournament%20Results%20-%2015%2B.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2011_EYT_12-14_Scores_Web.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2012/%5B2012%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2011_EYT_15plus_Scores_Web.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2012/%5B2012%5D%20ERSO%20European%20Masters%20Youth%20Tournament%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_EC_Team_Female.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Masters%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_EC_Team_Male.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Masters%20Youth%20Tournament%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_EC_Team_Mixed.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_European_Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_OT_Team_Female.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_OT_Team_Mixed.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_YT_Team_Female.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_YT_Team_Mixed.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2013_Results_Youth_Tournament_Individual.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2013/%5B2013%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_EC_Female_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_EC_Male_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Masters%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_EC_Mixed_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Masters%20Youth%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_EM_Female.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_OT_Female_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_OT_Mixed_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_YM_Female.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_YM_Male.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_YT_Female_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2015_Results_YT_Mixed_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Female_Masters_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Female_Open_Team_Tournament_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Female_Team_Championships_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Masters%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Female_Youth_Team_Tournament_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Masters%20Youth%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Female_Youth_Tournament_Individual_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Male_Masters_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Male_Team_Championships_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Male_Youth_Tournament_Individual_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Mixed_Open_Team_Tournament_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Mixed_Team_Championships_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2017_Mixed_Youth_Team_Tournament_Results.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2017/%5B2017%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_EC_Female_Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2018/%5B2018%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Performance.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_EC_Female_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2018/%5B2018%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Technical.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_EC_Female_Triples.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2018/%5B2018%5D%20ERSO%20European%20Wheel%20Contest%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_EC_Male_Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Female%20Triples.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_EC_Male_Team_SR-Pair_Freestyle.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_EC_Male_Triples.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Male%20Triples.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_EC_Open_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_OT_Female_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Masters%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_OT_Open_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Masters%20Youth%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_YT_%20Female_Individual.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_YT_Female_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_YT_Male_Individual.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_YT_Male_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/results/EC2019_Results_YT_Open_Team.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Male.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2019/%5B2019%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Mixed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2002-2003/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2005-2007/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2011-2013/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2017-2019/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2018/</loc>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/rule-books/2002-2003%20ERSO%20Rule%20Book.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/rule-books/2002-2003/%5B2002-2003%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/rule-books/2005-2007%20ERSO%20Rule%20Book.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/rule-books/2005-2007/%5B2005-2007%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/rule-books/2011-2013%20ERSO%20Rule%20Book.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/rule-books/2011-2013/%5B2011-2013%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/rule-books/2017-2019%20ERSO%20Rule%20Book.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/rule-books/2017-2019/%5B2017-2019%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/rule-books/2018%20ERSO%20Show%20Contest%20Rules.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/rule-books/2018/%5B2018%5D%20ERSO%20Rule%20Book%20-%20Show%20Contest.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/rule-books/2018%20ERSO%20Wheel%20Contest%20Rules.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/rule-books/2018/%5B2018%5D%20ERSO%20Rule%20Book%20-%20Wheel%20Contest.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/scoresheets/YYYY%20DD%20Pair%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/scoresheets/%5BYYYY%5D%20ERSO%20Scoresheets%20-%20Double%20Dutch%20Pair%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/scoresheets/YYYY%20DD%20Single%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/scoresheets/%5BYYYY%5D%20ERSO%20Scoresheets%20-%20Double%20Dutch%20Single%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/scoresheets/YYYY%20Masters%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/scoresheets/%5BYYYY%5D%20ERSO%20Scoresheets%20-%20Masters%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/scoresheets/YYYY%20Masters%20Speed%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/scoresheets/%5BYYYY%5D%20ERSO%20Scoresheets%20-%20Masters%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/scoresheets/YYYY%20SR%20Pair%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/scoresheets/%5BYYYY%5D%20ERSO%20Scoresheets%20-%20Single%20Rope%20Pair%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/scoresheets/YYYY%20SR%20Team%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/scoresheets/%5BYYYY%5D%20ERSO%20Scoresheets%20-%20Single%20Rope%20Team%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/scoresheets/YYYY%20Team%20Speed%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/erso/scoresheets/%5BYYYY%5D%20ERSO%20Scoresheets%20-%20Team%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -398,87 +534,67 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/01%20-%20SR%20Relay.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20CD%20Original.zip</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/02%20-%20SR%20Relay%20-%20Double%20Under.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Double%20Dutch%20Pair%20Speed.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/03%20-%20DD%20Pair.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Double%20Dutch%20Speed%20Relay.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/04%20-%20DD%20Relay.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Freestyle.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/05%20-%20Freestyle.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Silence.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/06%20-%20Freestyle.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Single%20Rope%20Double%20Under%20Relay.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/07%20-%20Freestyle.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Single%20Rope%20Speed%203%20min.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/08%20-%20Freestyle.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Single%20Rope%20Speed%2030%20seconds.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/09%20-%20silence.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Single%20Rope%20Speed%20Relay.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/10%20-%20silence.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/%5B2001-2002%5D%20ERSO%20Timing%20Tracks%20-%20Single%20Rope%20Triple%20Unders.wav</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/11%20-%2030%20seconds.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/%5B2012%5D%20ERSO%20Timing%20Tracks%20-%20Double%20Dutch%20Pair%20Speed.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/12%20-%203%20minutes.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/%5B2012%5D%20ERSO%20Timing%20Tracks%20-%20Double%20Dutch%20Speed%202%20min.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/13%20-%20Triples%20-%20silence.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/%5B2012%5D%20ERSO%20Timing%20Tracks%20-%20Double%20Dutch%20Speed%20Relay.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/14%20-%20Freestyle.wav</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/%5B2012%5D%20ERSO%20Timing%20Tracks%20-%20Single%20Rope%20Speed%203%20min.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/ERSO-Time-CD.zip</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/%5B2012%5D%20ERSO%20Timing%20Tracks%20-%20Single%20Rope%20Speed%2030%20sec.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/ERSO%20Time%20Track%20-%20Double%20Dutch%20Pair%20Speed%202x60%20sec%20%282012%29.mp3</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/ERSO%20Time%20Track%20-%20Double%20Dutch%20Speed%202min%20%282012%29.mp3</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/ERSO%20Time%20Track%20-%20Double%20Dutch%20Speed%20Relay%204x45%20sec%20%282012%29.mp3</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/ERSO%20Time%20Track%20-%20Single%20Rope%20Speed%20Endurance%203%20min%20%282012%29.mp3</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/ERSO%20Time%20Track%20-%20Single%20Rope%20Speed%20Sprint%2030%20sec%20%282012%29.mp3</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/ERSO%20Time%20Track%20-%20Single%20Rope%20Speed%20and%20Double%20Under%20Relay%204x30%20sec%20%282012%29.mp3</loc>
+    <loc>https://archive.ijru.sport/erso/timing-tracks/2012/%5B2012%5D%20ERSO%20Timing%20Tracks%20-%20Single%20Rope%20Speed%20and%20Double%20Under%20Relay.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1843,10 +1959,6 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/timing-tracks/1.0.0/wav/%5B1.0.0%5D%20SRTU.wav</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/unknown/2007IDDC.pdf</loc>
     <changefreq>never</changefreq>
   </url>
 </urlset>
