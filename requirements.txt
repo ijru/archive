@@ -1,1 +1,1 @@
-staticdirindex==1.9
+staticdirindex==1.10
