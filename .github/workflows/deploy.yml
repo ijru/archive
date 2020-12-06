@@ -35,7 +35,7 @@ jobs:
           key: ${{ runner.os }}-${{ hashFiles('**/previews') }}-${{ hashFiles('**/requirements.txt') }}
 
       - name: Generate index
-        run: staticdirindex . --sitename="IJRU Archive" --baseurl="https://arhive.ijru.sport"
+        run: staticdirindex . --sitename="IJRU Archive" --baseurl="https://archive.ijru.sport"
 
       - name: GitHub Pages action
         uses: peaceiris/actions-gh-pages@v3.7.3
