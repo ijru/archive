@@ -15,6 +15,9 @@ available via this archive.
   confident that the link will continue to work.
 * **Redundant**: The archive should strive to create copies of itself with
   organisations who's goal is archiving.
+* **Unbiased**: The archive should strive to create an accurate record of all
+  past and future rope skipping organisations, with a priority on international
+  ones.
 
 ## Contributing
 
