@@ -138,7 +138,15 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/results/2014/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/results/2015/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2016/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -306,6 +314,14 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/results/2014/%5B2014%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Performance.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2014/%5B2014%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Technical.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -343,6 +359,14 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/results/2015/%5B2015%5D%20ERSO%20European%20Team%20Youth%20Tournament%20Results%20-%20Mixed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2016/%5B2016%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Performance.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2016/%5B2016%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Technical.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
