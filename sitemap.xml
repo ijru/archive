@@ -1982,6 +1982,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/wjrf/results/2011/%5B2011%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20All%20Around.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -2010,6 +2014,26 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20DDC%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20DDC%20Speed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20Speed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20Team%20Show.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20All%20Around%2C%20Junior.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -2034,27 +2058,51 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20World%20Jump%20Rope%20Grand%20World%20Championships%20Results%20-%20DDC%20Freestyle.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20World%20Jump%20Rope%20Grand%20World%20Championships%20Results%20-%20DDC%20Speed.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20World%20Jump%20Rope%20Grand%20World%20Championships%20Results%20-%20Freestyle.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20World%20Jump%20Rope%20Grand%20World%20Championships%20Results%20-%20Speed.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/wjrf/results/2012/%5B2012%5D%20WJRF%20World%20Jump%20Rope%20Grand%20World%20Championships%20Results%20-%20Team%20Show.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
     <loc>https://archive.ijru.sport/wjrf/results/2013/%5B2013%5D%20WJRF%20Arnolds%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20DDC%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20DDC%20Speed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20Speed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20All%20Around%2C%20Junior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20All%20Around%2C%20Senior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Freestyle%2C%20Junior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Freestyle%2C%20Senior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Speed%2C%20Junior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Speed%2C%20Senior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Team%20Show%2C%20Junior.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
