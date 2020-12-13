@@ -28,6 +28,12 @@ archive, please contact us on [archive@ijru.sport](mailto:archive@ijru.sport) or
 create a pull request. If you intend to create a pull request, make sure you
 adhere to the naming scheme and guidelines set out below.
 
+### Mirroring
+
+After you have published a new document to the archive, go to
+[the Internet Archive's save page](https://web.archive.org/save),
+and save <https://archive.ijru.sport/sitemap.xml> with "Save outlinks" selected
+
 ### Naming Scheme
 
 #### Files
