@@ -2270,6 +2270,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2014/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/wjrf/rule-books/2015/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -2303,6 +2307,14 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/wjrf/rule-books/2013/%5B2013%5D%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2014/%5B2014%5D%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2014/%5B2014%5D%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -2347,6 +2359,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/wjrf/rule-books/2017/%5B2017%5D%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2018/%5B2018%5D%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
