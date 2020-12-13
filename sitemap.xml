@@ -1986,6 +1986,26 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2017/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2018/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2019/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/wjrf/results/2011/%5B2011%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20All%20Around.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -2058,7 +2078,7 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/wjrf/results/2013/%5B2013%5D%20WJRF%20Arnolds%20Results.pdf</loc>
+    <loc>https://archive.ijru.sport/wjrf/results/2013/%5B2013%5D%20WJRF%20Arnold%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -2103,6 +2123,102 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/wjrf/results/2014/%5B2014%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Team%20Show%2C%20Junior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20Arnold%20Championships%20Europe%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20Grand%20World%20Championships%20Results%20-%20DDC.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20Grand%20World%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20Pan-American%20Championships%20Results%20-%20Age%20Divisions.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20Pan-American%20Championships%20Results%20-%20DDC.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20Pan-American%20Championships%20Results%20-%20Grands.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20Pan-American%20Championships%20Results%20-%20Jump-Off.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Junior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2015/%5B2015%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Senior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/%5B2016%5D%20WJRF%20Arnold%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/%5B2016%5D%20WJRF%20Grand%20World%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/%5B2016%5D%20WJRF%20Pan-American%20Championships%20Results%20-%20DDC.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/%5B2016%5D%20WJRF%20Pan-American%20Championships%20Results%20-%20Grands.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/%5B2016%5D%20WJRF%20Pan-American%20Championships%20Results%20-%20Junior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/%5B2016%5D%20WJRF%20Pan-American%20Championships%20Results%20-%20Senior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/%5B2016%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Junior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2016/%5B2016%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Senior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2017/%5B2017%5D%20WJRF%20Grand%20World%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2017/%5B2017%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20DDC%2C%20Senior%20Double%20Dutch%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2017/%5B2017%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Double%20Dutch%20Speed%2C%20Junior%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2017/%5B2017%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Single%20Rope%20Speed%2C%20Junior%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2017/%5B2017%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results%20-%20Team%20Show%2C%20Senior%20Single%20Rope%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2018/%5B2018%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/results/2019/%5B2019%5D%20WJRF%20World%20Jump%20Rope%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
