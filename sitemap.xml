@@ -526,6 +526,46 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Master%20Freestyle%2C%20Summary%20Sheet.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Master%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Master%20Power.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Master%20Speed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Team%20Double%20Dutch%20Freestyle%2C%20Summary%20Sheet.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Team%20Double%20Dutch%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Team%20Single%20Rope%20Freestyle%2C%20Summary%20Sheet.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Team%20Single%20Rope%20Freestyle.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/scoresheets/2005/%5B2005%5D%20FISAC-IRSF%20Scoresheets%20-%20Team%20Speed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/timing-tracks/2001-2002/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -618,11 +658,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/by-laws/2005%20FISAC-IRSF%20By-Laws.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/by-laws/%5B2005%5D%20FISAC-IRSF%20By-Laws.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/by-laws/2019%20FISAC-IRSF%20Dissolution.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/by-laws/%5B2019%5D%20FISAC-IRSF%20Dissolution.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -650,451 +690,471 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/2008_FISAC_WC_junior_female_overall_Final_Positions.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/2008_FISAC_WC_junior_male_Overall_Final_Positions.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/2008_FISAC_WC_junior_open_Overall_Final_Positions.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/2008_FISAC_WC_senior_female%20Overall_Final_Positions.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/2008_FISAC_WC_senior_male_Overall_Final_Positions.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/2008_FISAC_WC_senior_open_Overall_Final_Positions.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/2008_WC_Female%20Masters%20Ranking.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/2008_WC_Male%20Masters%20Ranking.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WC_Double%20Dutch%20Pair%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WC_Female%20Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WC_Female%20Team.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Triple%20Unders%2C%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WC_Female_Triple%20Under.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Triple%20Unders%2C%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WC_Male%20Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Double%20Dutch%20Pair%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WC_Male%20Team.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WC_Male_Triple%20Under.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2015-17%2C%2018%2B.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WC_Open%20Team.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Male%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_12-14_Female%20Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Male%2C%2015-17%2C%2018%2B.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_12-14_Female%20Team.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Triple%20Unders%2C%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_12-14_Male%20Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Triple%20Unders%2C%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_12-14_Male%20and%20Open%20Team.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Double%20Dutch%20Pair%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_15-17_18_Female%20Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_15-17_18_Male%20Masters.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_15-17_Female%20Team.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_15-17_Male%20and%20Open%20Team.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_18_Female%20and%20Open%20Team.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2015-17.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_Double%20Dutch%20Pair%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Female%2C%20Open%2C%2018%2B.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_Female_Triple%20Under.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Male%2C%20Open%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/WYT_Male_Triple%20Under.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Male%2C%20Open%2C%2015-17.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/World%20Cup.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2010/%5B2010%5D%20FISAC-IRSF%20World%20Cup%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Female_Triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Male_Triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_WC_DDPS.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Triple%20Unders.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_WC_Masters_Female.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_WC_Masters_Male.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2015-17.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_WC_Team_Female.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2018%2B.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_WC_Team_Male.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Male%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_WC_Team_Open.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Male%2C%2015-17.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_WC_Triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Male%2C%2018%2B.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_WC_World_Cup_2012.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Triple%20Unders%2C%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_DDPS_Male.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Triple%20Unders%2C%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_DDPS_Open.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Double%20Dutch%20Pair%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_DDPS_female.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Masters_12-14_F.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Masters_12-14_M.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Masters_15-17_F.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Double%20Dutch%20Pair%20Speed%2C%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Masters_15-17_M.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Double%20Dutch%20Pair%20Speed%2C%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Masters_18_F.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Double%20Dutch%20Pair%20Speed%2C%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Masters_18_M.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Team_12-14_F.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2015-17.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Team_12-14_M.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Female%2C%2018%2B.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Team_12-14_O.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Male%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Team_15-17_F.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Open%2C%2012-14.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Team_15-17_O.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Open%2C%2015-17.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Team_18_F_.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Open%2C%2018%2B.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/Results_YT_Team_18_O.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2012/%5B2012%5D%20FISAC-IRSF%20World%20Cup%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/2x1IOT2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Masters%20International%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/2x1WC2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Masters%20International%20Open%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/2x1youth2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Masters%20International%20Open%20Tournament%20Results%20-%20Triple%20Unders.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/IOTMasters-female2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/IOTMasters-male2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/MalesIOT2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Triple%20Unders.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/WCMasters-female2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/WCMasters-male2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Masters%20World%20Youth%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/WCfemale2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20International%20Open%20Tournament%20Results%20-%20Double%20Dutch%20Pair%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/WCtriples2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20International%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/Worldcup2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20International%20Open%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/YTmasters-female2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20International%20Open%20Tournament%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/YTmasters-male2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Double%20Dutch%20Pair%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/femaleYT2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/femalesIOT2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/maleYT2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/openIOT2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Double%20Dutch%20Pair%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/openYT2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/triplesIOT2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/wcmale2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20Team%20World%20Youth%20Tournament%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/wcopen2014.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2014/%5B2014%5D%20FISAC-IRSF%20World%20Cup%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/jwc_female_masters_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20Junior%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/jwc_female_team_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20Junior%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/jwc_male_masters_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20Swedish%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/jwc_male_team_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20Swedish%20Open%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/jwc_open_team_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20Swedish%20Open%20Tournament%20Results%20-%20Triple%20Unders%2C%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/sot_female_masters_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20Swedish%20Open%20Tournament%20Results%20-%20Triple%20Unders%2C%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/sot_female_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/sot_female_triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/sot_male_masters_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Triple%20Unders%2C%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/sot_male_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Triple%20Unders%2C%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/sot_male_triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/sot_open_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/wc_female_masters_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/wc_female_team_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20Swedish%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/wc_female_triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20Swedish%20Open%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/wc_male_masters_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20Swedish%20Open%20Tournament%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/wc_male_team_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/wc_male_triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/wc_open_team_overall.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_jwc_female_masters_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2016/%5B2016%5D%20FISAC-IRSF%20World%20Cup%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_jwc_female_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Masters%20Chinese%20International%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_jwc_male_masters_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Masters%20Chinese%20International%20Open%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_jwc_male_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Masters%20Junior%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_jwc_open_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Masters%20Junior%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_ot_female_masters_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_ot_female_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_ot_male_masters_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20Chinese%20International%20Open%20Tournament%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_ot_male_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20Chinese%20International%20Open%20Tournament%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_ot_open_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20Chinese%20International%20Open%20Tournament%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_wc_female_masters_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_wc_female_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_wc_male_masters_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20Junior%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_wc_male_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Female.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_wc_open_team_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Male.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_world_championships_rule_changes_summary_21052017.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Open.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/2018_world_cup_results.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/2018/%5B2018%5D%20FISAC-IRSF%20World%20Cup%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/%5BYYYY%5D%20FISAC-IRSF%20Rule%20Book%20-%20Creativity%20Scoresheet%20Guidelines.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/%5BYYYY%5D%20FISAC-IRSF%20Rule%20Book%20-%20Double%20Dutch%20Points.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/%5BYYYY%5D%20FISAC-IRSF%20Rule%20Book%20-%20Masters%20Points.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/%5BYYYY%5D%20FISAC-IRSF%20Rule%20Book%20-%20Single%20Rope%20Points.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/%5BYYYY%5D%20FISAC-IRSF%20Rule%20Book%20-%20Skill%20List.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1130,119 +1190,83 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2003-2004/2003-2004%20FISAC-IRSF%20Rule%20Book.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2003-2004/%5B2003-2004%5D%20FISAC-IRSF%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2003-2004/2004%20FISAC-IRSF%20World%20Cup%20-%20Difficulty%20Elements.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2003-2004/%5B2004%5D%20FISAC-IRSF%20World%20Cup%20Rule%20Book%20-%20Difficulty%20Elements.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2003-2004/2004%20FISAC-IRSF%20World%20Cup%20-%20Technical%20Elements.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2003-2004/%5B2004%5D%20FISAC-IRSF%20World%20Cup%20Rule%20Book%20-%20Technical%20Elements.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2005-2007/2005-2007%20FISAC-IRSF%20Rule%20Book.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2005-2007/%5B2005-2007-rev2%5D%20FISAC-IRSF%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2005-2007/Double%20Dutch.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2007-2008/%5B2007-2008%5D%20FISAC-IRSF%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2005-2007/Helpful%20points%20for%20judges.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2009-2010/%5B2009-2010%5D%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2005-2007/MASTERS.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2009-2010/%5B2009-2010%5D%20FISAC-IRSF%20Rule%20Book%20-%20World%20Championships.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2005-2007/Skill%20list.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2009-2010/%5B2009-2010%5D%20FISAC-IRSF%20Rule%20Book%20-%20Youth%20Championships.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2005-2007/TEAM%20SINGLE%20ROPE%20FREESTYLE.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/%5B2011-2012%5D%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2007-2008/2007-2008%20FISAC-IRSF%20Rule%20Book%20alt1.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/%5B2011-2012%5D%20FISAC-IRSF%20Rule%20Book%20-%20Summary%20of%20Changes.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2007-2008/2007-2008%20FISAC-IRSF%20Rule%20Book%20alt2.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/%5B2011-2012%5D%20FISAC-IRSF%20Rule%20Book%20-%20World%20Championships.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2009-2010/2009-2010%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/%5B2011-2012%5D%20FISAC-IRSF%20Rule%20Book%20-%20World%20Youth%20Tournament.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2009-2010/2009-2010%20FISAC-IRSF%20Rule%20Book%20-%20World%20Championships.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2013-2014/%5B2013-2014%5D%20FISAC-IRSF%20Rule%20Book%20-%20Competition%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2009-2010/2009-2010%20FISAC-IRSF%20Rule%20Book%20-%20Youth%20Championships.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2013-2014/%5B2013-2014%5D%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/2011-2012%20%28unknown%20if%20draft%20or%20final%29%20FISAC-IRSF%20Rule%20Book%20-%20World%20Championships.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2015-2016/%5B2015-2016%5D%20FISAC-IRSF%20Rule%20Book%20-%20Competition%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/2011-2012%20%28unknown%20if%20draft%20or%20final%29%20FISAC-IRSF%20Rule%20Book%20-%20World%20Youth%20Tournament.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2015-2016/%5B2015-2016%5D%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/2011-2012%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2017-2018/%5B2017-2018%5D%20FISAC-IRSF%20Rule%20Book%20-%20Competition%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/FISAC%20RULEBOOK%202011-2012%20Judging%20Manual.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2017-2018/%5B2017-2018%5D%20FISAC-IRSF%20Rule%20Book%20-%20Summary%20of%20Changes.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/FISAC%20RULEBOOK%202011-2012%20Summary%20of%20Changes.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/FISAC%20RULEBOOK%202011-2012%20World%20Championships.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2011-2012/FISAC%20RULEBOOK%202011-2012%20World%20Youth%20Tournament.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2013-2014/2013-2014%20FISAC-IRSF%20Rule%20Book%20-%20Competition%20Manual.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2013-2014/2013-2014%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2015-2016/2015-2016%20FISAC-IRSF%20Rule%20Book%20-%20Competition%20Manual.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2015-2016/2015-2016%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2017-2018/2017-2018%20FISAC-IRSF%20Rule%20Book%20-%20Competition%20Manual.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2017-2018/2018%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/rule-books/2017-2018/%5B2018%5D%20FISAC-IRSF%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2004/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -1262,187 +1286,151 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2004/2004%20FISAC-IRSF%20World%20Cup%20-%20Difficulty.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2004/%5B2004%5D%20FISAC-IRSF%20Scoresheets%20-%20World%20Cup%2C%20Difficulty.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2004/2004%20FISAC-IRSF%20World%20Cup%20-%20Presentation.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2004/%5B2004%5D%20FISAC-IRSF%20Scoresheets%20-%20World%20Cup%2C%20Presentation.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2004/2004%20FISAC-IRSF%20World%20Cup%20-%20Ranking.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2004/%5B2004%5D%20FISAC-IRSF%20Scoresheets%20-%20World%20Cup%2C%20Ranking.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreFreestyleDiffCreatMasterBlank.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2009-2010/%5B2009-2010%5D%20FISAC-IRSF%20Scoresheets%20-%20Freestyle%20Double%20Dutch.doc</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreFreestyleDiffCreatTeamBlank.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2009-2010/%5B2009-2010%5D%20FISAC-IRSF%20Scoresheets%20-%20Freestyle%20Masters.doc</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreFreestyleDiffCreatTeamBlankDD.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2009-2010/%5B2009-2010%5D%20FISAC-IRSF%20Scoresheets%20-%20Freestyle%20Single%20Rope.doc</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreFreestyleMasterBlank.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Pair%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreFreestyleTeamBlank.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Pair%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreFreestyleTeamBlankDD.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Single%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreSpeedMasterBlank.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Speed%20Relay.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreSpeedMasterPowerBlank.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%203%20Min%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2006/rptScoreSpeedTeamBlank.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%2030%20Sec%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2009-2010/2009-2010_DD_Freestyle_RAW_Scoresheets.doc</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2009-2010/2009-2010_Masters_Freestyle_RAW_Scoresheets.doc</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Pair%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2009-2010/2009-2010_Single_Rope_Team_Freestyle_RAW_Scoresheets%5B1%5D.doc</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Speed%20Relay.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20DD%20Pair%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Team%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20DD%20Single%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/%5B2012%5D%20FISAC-IRSF%20Scoresheets%20-%20Triple%20Unders.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20Masters%203%20Min%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Pair%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20Masters%2030%20Sec%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Single%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20Masters%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Speed%20Relay.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20SR%20Pair%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%203%20Min%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20SR%20Team%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%2030%20Sec%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20Team%20DD%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20Team%20DDPS%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Pair%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20Team%20SR%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Speed%20Relay.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2011-2012/2012%20Triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Team%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20DD%20Pair%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/%5B2016%5D%20FISAC-IRSF%20Scoresheets%20-%20Triple%20Unders.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20DD%20Single%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Pair%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20Masters%203%20Min%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Single%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20Masters%2030%20Sec%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Double%20Dutch%20Speed%20Relay.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20Masters%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%203%20Min%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20Team%20DD%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%2030%20Sec%20Speed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20Team%20SR%20Pair%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Masters%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20Team%20SR%20Speed.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Pair%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20Team%20SR%20Team%20Freestyle%20Scoresheets.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Speed%20Relay.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2016/2016%20FISAC-IRSF%20Triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Single%20Rope%20Team%20Freestyle.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20DD%20Pair%20Freestyle%20Scoresheets.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20DD%20Single%20Freestyle%20Scoresheets.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20Masters%203%20Min%20Speed.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20Masters%2030%20Sec%20Speed.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20Masters%20Freestyle%20Scoresheets.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20Team%20DD%20Speed.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20Team%20SR%20Pair%20Freestyle%20Scoresheets.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20Team%20SR%20Speed.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20Team%20SR%20Team%20Freestyle%20Scoresheets.pdf</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/2018%20FISAC-IRSF%20Triples.pdf</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/scoresheets/2018/%5B2018%5D%20FISAC-IRSF%20Scoresheets%20-%20Triple%20Unders.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1450,19 +1438,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/timing-tracks/2016/2016%20%20FISAC-IRSF%20-%20DDSR%20-%204x45s.mp3</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/timing-tracks/2016/%5B2016%5D%20FISAC-IRSF%20Timing%20Tracks%20-%20Double%20Dutch%20Speed%20Relay.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/timing-tracks/2016/2016%20FISAC-IRSF%20-%20SRE%20-%20180s.mp3</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/timing-tracks/2016/%5B2016%5D%20FISAC-IRSF%20Timing%20Tracks%20-%20Single%20Rope%20Speed%20Endurance.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/timing-tracks/2016/2016%20FISAC-IRSF%20-%20SRSR%20-%204x30s.mp3</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/timing-tracks/2016/%5B2016%5D%20FISAC-IRSF%20Timing%20Tracks%20-%20Single%20Rope%20Speed%20Relay.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/fisac-irsf/timing-tracks/2016/2016%20FISAC-IRSF%20-%20SRSS%20-%2030s.mp3</loc>
+    <loc>https://archive.ijru.sport/fisac-irsf/timing-tracks/2016/%5B2016%5D%20FISAC-IRSF%20Timing%20Tracks%20-%20Single%20Rope%20Speed%20Sprint.mp3</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1606,7 +1594,7 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://archive.ijru.sport/ijru/policies/code-of-ethics/%5B1.0%5D%20IJRU%20Code%20of%20Conduct.pdf</loc>
+    <loc>https://archive.ijru.sport/ijru/policies/code-of-ethics/%5B1.0%5D%20IJRU%20Code%20of%20Ethics.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1691,6 +1679,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/rule-books/2.0.0-pr.1-virtual/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/rule-books/2.0.0-virtual/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -1862,6 +1854,10 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/rule-books/2.0.0-virtual/%5B2.0.0%5D%20IJRU%20Rule%20Book%20-%20Virtual%20Tournament%20Addendum.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/timing-tracks/1.0.0/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -1959,6 +1955,162 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/timing-tracks/1.0.0/wav/%5B1.0.0%5D%20SRTU.wav</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2011/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2013/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2015/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2016/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2017/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2018/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2019/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2011/%5B2011%5D%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2011/%5B2011%5D%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2013/%5B2013%5D%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2013/%5B2013%5D%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2015/%5B2015%5D%20%28de%29%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2015/%5B2015%5D%20%28en%29%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2015/%5B2015%5D%20%28en%29%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2015/%5B2015%5D%20%28zh%29%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2015/%5B2015%5D%20%28zh%29%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2016/%5B2016%5D%20%28de%29%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2016/%5B2016%5D%20%28en%29%20WJRF%20Rule%20Book%20-%20Arnold%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2016/%5B2016%5D%20%28en%29%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2016/%5B2016%5D%20%28en%29%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2017/%5B2017%5D%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2017/%5B2017%5D%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2018/%5B2018%5D%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2019/%5B2019%5D%20WJRF%20Rule%20Book%20-%20Competition%20Rules.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/rule-books/2019/%5B2019%5D%20WJRF%20Rule%20Book%20-%20Judging%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Double%20Dutch%20Speed%201x120.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Double%20Dutch%20Speed%202x60.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Double%20Dutch%20Speed%203x40.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Double%20Dutch%20Speed%204x45.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Double%20Dutch%20Triad%20Freestyle.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Freestyle%20Event.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Single%20Rope%20Consecutive%20Triple%20Unders.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Single%20Rope%20Speed%201x180.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Single%20Rope%20Speed%201x30.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Single%20Rope%20Speed%202x30.mp3</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/wjrf/timing-tracks/2012/%5B2012%5D%20WJRF%20Timing%20Tracks%20-%20Single%20Rope%20Speed%204x30.mp3</loc>
     <changefreq>never</changefreq>
   </url>
 </urlset>
