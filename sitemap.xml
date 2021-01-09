@@ -14,6 +14,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/jdda/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/wjrf/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -1999,6 +2003,26 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/timing-tracks/1.0.0/wav/%5B1.0.0%5D%20SRTU.wav</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/jdda/timing-tracks/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/jdda/timing-tracks/2017/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/jdda/timing-tracks/2017/%5B2017%5D%20JDDA%20Timing%20Tracks%20-%20Speed%20alt%201.m4a</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/jdda/timing-tracks/2017/%5B2017%5D%20JDDA%20Timing%20Tracks%20-%20Speed%20alt%202.m4a</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/jdda/timing-tracks/2017/%5B2017%5D%20JDDA%20Timing%20Tracks%20-%20Speed%20alt%203.m4a</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
