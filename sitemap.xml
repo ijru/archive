@@ -730,6 +730,10 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/1999/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/fisac-irsf/results/2008/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -752,6 +756,26 @@
   <url>
     <loc>https://archive.ijru.sport/fisac-irsf/results/2018/</loc>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/1999/%5B1999%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Female.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/1999/%5B1999%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Male.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/1999/%5B1999%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%2012-14.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/1999/%5B1999%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Junior.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/fisac-irsf/results/1999/%5B1999%5D%20FISAC-IRSF%20Team%20World%20Championships%20Results%20-%20Senior.pdf</loc>
+    <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://archive.ijru.sport/fisac-irsf/results/2008/%5B2008%5D%20FISAC-IRSF%20Masters%20World%20Championships%20Results%20-%20Female.pdf</loc>
