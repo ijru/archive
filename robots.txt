@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wjrf
+Disallow: /fisac-irsf
+
+sitemap: https://archive.ijru.sport/sitemap.xml
