@@ -558,6 +558,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2022/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/rule-books/2002-2003/%5B2002-2003%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -579,6 +583,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/rule-books/2018/%5B2018%5D%20ERSO%20Rule%20Book%20-%20Wheel%20Contest.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2022/%5B2022%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
