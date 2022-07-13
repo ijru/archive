@@ -1582,6 +1582,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/results/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/rule-books/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -1759,6 +1763,18 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/policies/sport-nationality-change-forms/%5B1.0%5D%20IJRU%20Sport%20Nationality%20Change%20Request%20-%20Residential%20Attestation.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/results/2021/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/results/2021/%5B2021%5D%20IJRU%20Virtual%20World%20Championships%20Results%20-%20Overall.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/results/2021/%5B2021%5D%20IJRU%20Virtual%20World%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
