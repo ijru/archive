@@ -1698,6 +1698,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/policies/privacy-policy/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/policies/sport-nationality-change-forms/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -1739,6 +1743,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/policies/gender-policy/%5B1.1%5D%20IJRU%20Gender%20Policy.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/policies/privacy-policy/%5B1.0%5D%20IJRU%20Privacy%20Policy.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
