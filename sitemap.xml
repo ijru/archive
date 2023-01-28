@@ -178,6 +178,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/results/1991/%5B1991%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -535,6 +539,114 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/results/2021/%5B2021%5D%20ERSO%20European%20Wheel%20Contest%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Championships%20Team%20Show%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Championships%20Finals%20Results%20-%20Female.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Championships%20Finals%20Results%20-%20Male.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Female.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Male.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Open%20Tournament%20Results%20-%20Any%2C%2030%2B.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Open%20Tournament%20Results%20-%20Female%2C%2012-15.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Open%20Tournament%20Results%20-%20Female%2C%2016%2B.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Open%20Tournament%20Results%20-%20Male%2C%2012-15.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Masters%20Open%20Tournament%20Results%20-%20Male%2C%2016%2B.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Championships%20Double%20Dutch%20Triad%20Finals%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Championships%20Double%20Dutch%20Triad%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Championships%20Finals%20Results%20-%20Female.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Championships%20Finals%20Results%20-%20Male.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Championships%20Finals%20Results%20-%20Mixed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Female.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Male.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Mixed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Any%2C%2030%2B.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Female%2C%2012-15.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Female%2C%2016%2B.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Mixed%2C%2012-15.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20European%20Team%20Open%20Tournament%20Results%20-%20Mixed%2C%2016%2B.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20Junior%20European%20Masters%20Championships%20Results%20-%20Female.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20Junior%20European%20Masters%20Championships%20Results%20-%20Male.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20Junior%20European%20Team%20Championships%20Results%20-%20Female.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2022/%5B2022%5D%20ERSO%20Junior%20European%20Team%20Championships%20Results%20-%20Mixed.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
