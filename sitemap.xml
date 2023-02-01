@@ -650,6 +650,10 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/1998/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/rule-books/2002-2003/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -672,6 +676,10 @@
   <url>
     <loc>https://archive.ijru.sport/erso/rule-books/2022/</loc>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/1998/%5B1998%5D%20ERSO%20Rule%20Book.pdf</loc>
+    <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/rule-books/2002-2003/%5B2002-2003%5D%20ERSO%20Rule%20Book.pdf</loc>
