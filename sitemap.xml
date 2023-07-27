@@ -1822,7 +1822,15 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/policies/safe-sport-policy/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/policies/sport-nationality-change-forms/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/policies/world-record-policy/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -1878,6 +1886,10 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/policies/safe-sport-policy/%5B1.0%5D%20IJRU%20Safe%20Sport%20Policy.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/policies/sport-nationality-change-forms/%5B1.0-draft%5D%20IJRU%20Sport%20Nationality%20Change%20Request%20-%20Former%20NGB.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -1899,6 +1911,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/policies/sport-nationality-change-forms/%5B1.0%5D%20IJRU%20Sport%20Nationality%20Change%20Request%20-%20Residential%20Attestation.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/policies/world-record-policy/%5B1.0%5D%20IRJU%20World%20Record%20Policy.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
