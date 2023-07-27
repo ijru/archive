@@ -1906,11 +1906,23 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/results/2023/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/results/2021/%5B2021%5D%20IJRU%20Virtual%20World%20Championships%20Results%20-%20Overall.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/results/2021/%5B2021%5D%20IJRU%20Virtual%20World%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/results/2023/%5B2023%5D%20IJRU%20World%20Championships%20Results%20-%20Overall.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/results/2023/%5B2023%5D%20IJRU%20World%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
