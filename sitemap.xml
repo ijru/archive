@@ -1698,6 +1698,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/policies/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -1799,6 +1803,126 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/constitutions/%5B2.0%5D%20IJRU%20Constitution.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/constitutions/%5B2.1%5D%20IJRU%20Constitution.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/constitutions/%5B2.3%5D%20IJRU%20Constitution.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2019-general-congress/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2020-general-congress/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2022-general-congress/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2023-general-congress/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2019-general-congress/%5B2019%5D%20IJRU%20General%20Congress%20-%20Minutes.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2020-general-congress/%5B2020-v1%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2020-general-congress/%5B2020-v2%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2020-general-congress/%5B2020-v3%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2020-general-congress/%5B2020-v4%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2020-general-congress/%5B2020%5D%20IJRU%20General%20Congress%20-%20Minutes.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021-v1%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021-v2%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021%5D%20%28en%29%20IJRU%20General%20Congress%20-%20Pan%20America%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021%5D%20%28es%29%20IJRU%20General%20Congress%20-%20Pan%20America%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021%5D%20IJRU%20General%20Congress%20-%20Africa%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021%5D%20IJRU%20General%20Congress%20-%20Asia%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021%5D%20IJRU%20General%20Congress%20-%20Europe%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021%5D%20IJRU%20General%20Congress%20-%20Minutes.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2021-general-congress/%5B2021%5D%20IJRU%20General%20Congress%20-%20Oceania%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2022-general-congress/%5B2022-v1%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2022-general-congress/%5B2022-v2%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2022-general-congress/%5B2022%5D%20IJRU%20General%20Congress%20-%20Africa%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2022-general-congress/%5B2022%5D%20IJRU%20General%20Congress%20-%20Asia%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2022-general-congress/%5B2022%5D%20IJRU%20General%20Congress%20-%20Europe%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2022-general-congress/%5B2022%5D%20IJRU%20General%20Congress%20-%20Minutes.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2023-general-congress/%5B2023%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2023-general-congress/%5B2023%5D%20IJRU%20General%20Congress%20-%20Election%20Ballot.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -1915,6 +2039,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/policies/world-record-policy/%5B1.0%5D%20IRJU%20World%20Record%20Policy.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/policies/world-record-policy/%5B1.2%5D%20IJRU%20World%20Record%20Policy.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
