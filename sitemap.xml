@@ -30,7 +30,31 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ajru/results/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ajru/rule-books/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ajru/constitutions/%5B4.0%5D%20AJRU%20Constitution.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ajru/results/2022/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ajru/results/2022/%5B2022%5D%20AJRU%20Virtual%20Asian%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ajru/rule-books/2024/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ajru/rule-books/2024/%5B2024%5D%20AJRU%20Rule%20Book%20-%20Long%20Rope%20Rules.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
