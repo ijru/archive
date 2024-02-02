@@ -678,6 +678,14 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2023/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2024/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/rule-books/1998/%5B1998%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -707,6 +715,22 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/rule-books/2022/%5B2022%5D%20ERSO%20Rule%20Book.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2023/%5B2023%5D%20ERSO%20Rule%20Book%20-%20Show%20Contest%20Competition%20Manual.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2023/%5B2023%5D%20ERSO%20Rule%20Book%20-%20Show%20Contest%20Judging%20Manual.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2023/%5B2023%5D%20ERSO%20Rule%20Book%20-%20Wheel%20Contest.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2024/%5B2024%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
