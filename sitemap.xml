@@ -2,6 +2,10 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://archive.ijru.sport/ajru/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -20,6 +24,14 @@
   <url>
     <loc>https://archive.ijru.sport/wjrf/</loc>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ajru/constitutions/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ajru/constitutions/%5B4.0%5D%20AJRU%20Constitution.pdf</loc>
+    <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/by-laws/</loc>
