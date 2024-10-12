@@ -1894,6 +1894,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2024-general-congress/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/meetings/2019-general-congress/%5B2019%5D%20IJRU%20General%20Congress%20-%20Minutes.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -1983,6 +1987,14 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/meetings/2023-general-congress/%5B2023%5D%20IJRU%20General%20Congress%20-%20Election%20Ballot.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2023-general-congress/%5B2023%5D%20IJRU%20General%20Congress%20-%20Minutes.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2024-general-congress/%5B2024%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
