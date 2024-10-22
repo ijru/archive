@@ -2218,6 +2218,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/rule-books/4.1.0/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/rule-books/1.0.0/%5B1.0.0%5D%20IJRU%20Rule%20Book%20-%20Competition%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -2415,6 +2419,18 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/rule-books/4.0.0/%5B4.0.0%5D%20IJRU%20Rule%20Book%20-%20Technical%20Manual.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/rule-books/4.1.0/%5B4.1.0%5D%20IJRU%20Rule%20Book%20-%20Competition%20Manual.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/rule-books/4.1.0/%5B4.1.0%5D%20IJRU%20Rule%20Book%20-%20Judging%20Manual.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/rule-books/4.1.0/%5B4.1.0%5D%20IJRU%20Rule%20Book%20-%20Technical%20Manual.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
