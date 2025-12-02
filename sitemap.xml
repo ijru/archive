@@ -1898,6 +1898,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2025-general-congress/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/meetings/2019-general-congress/%5B2019%5D%20IJRU%20General%20Congress%20-%20Minutes.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -2006,11 +2010,31 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2024-general-congress/%5B2024%5D%20IJRU%20General%20Congress%20-%20Minutes.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/meetings/2024-general-congress/%5B2024%5D%20IJRU%20General%20Congress%20-%20Oceania%20Continental%20Report.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/meetings/2024-general-congress/%5B2024%5D%20IJRU%20General%20Congress%20-%20Pan-America%20Continental%20Report.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2025-general-congress/%5B2025%5D%20IJRU%20General%20Congress%20-%20Agenda.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2025-general-congress/%5B2025%5D%20IJRU%20General%20Congress%20-%20Directors%20Handbook.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2025-general-congress/%5B2025%5D%20IJRU%20General%20Congress%20-%20Matrix%20Constitutional%20Amendments.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/meetings/2025-general-congress/%5B3.2%5D%20IJRU%20General%20Congress%20-%20Business%20Case%20Strategic%20Professionalisation.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
