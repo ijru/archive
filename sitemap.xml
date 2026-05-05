@@ -338,6 +338,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/results/2023/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2025/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/results/1991/%5B1991%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -806,6 +818,70 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/results/2023/%5B2023%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Entertainment.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2023/%5B2023%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Technical.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2023/%5B2023%5D%20ERSO%20European%20Wheel%20Contest%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20Double%20Dutch%20Contest%20Europe%20Results%20-%20Junior%20Speed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20Double%20Dutch%20Contest%20Europe%20Results%20-%20Performance.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20Double%20Dutch%20Contest%20Europe%20Results%20-%20Senior%20Speed.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20European%20Championships%20Finals%20Results%20-%20Day%201.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20European%20Championships%20Finals%20Results%20-%20Day%202.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20European%20Championships%20Results%20-%20Day%201.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20European%20Championships%20Results%20-%20Day%202.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20European%20Championships%20Results%20-%20Day%203.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20European%20Open%20Tournament%20Results%20-%20Day%201.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2024/%5B2024%5D%20ERSO%20European%20Open%20Tournament%20Results%20-%20Day%202.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2025/%5B2025%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Entertainment.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2025/%5B2025%5D%20ERSO%20European%20Show%20Contest%20Results%20-%20Technical.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2025/%5B2025%5D%20ERSO%20European%20Wheel%20Contest%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/rule-books/1998/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -839,6 +915,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/rule-books/2024/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2026/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -887,6 +967,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/rule-books/2024/%5B2024%5D%20ERSO%20Rule%20Book.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/rule-books/2026/%5B2026%5D%20ERSO%20Rule%20Book.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
