@@ -350,6 +350,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/erso/results/1991/%5B1991%5D%20ERSO%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
@@ -879,6 +883,46 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/erso/results/2025/%5B2025%5D%20ERSO%20European%20Wheel%20Contest%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20Double%20Dutch%20Contest%20Europe%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20European%20Championships%20Team%20Show%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Finals.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20European%20Masters%20Championships%20Results%20-%20Qualifiers%20and%20Overalls.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20European%20Open%20Tournament%20Masters%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20European%20Open%20Tournament%20Teams%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Finals.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20European%20Team%20Championships%20Results%20-%20Qualifiers%20and%20Overalls.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20Junior%20European%20Masters%20Championships%20Results.pdf</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/erso/results/2026/%5B2026%5D%20ERSO%20Junior%20European%20Team%20Championships%20Results.pdf</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
