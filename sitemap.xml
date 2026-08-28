@@ -2302,6 +2302,10 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://archive.ijru.sport/ijru/policies/ai-judge-certification-policy/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://archive.ijru.sport/ijru/policies/anti-doping/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -2315,6 +2319,10 @@
   </url>
   <url>
     <loc>https://archive.ijru.sport/ijru/policies/gender-policy/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://archive.ijru.sport/ijru/policies/judge-certification-policy/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
